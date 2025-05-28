@@ -31,7 +31,7 @@ Command: encapsula a lógica de compra em um comando reutilizável e independent
 - PHP 8.3+
 - SQLite
 - PHPMailer
-- Design Patterns: MVC, Observer e Command
+- Design Patterns: Observer e Command
 - Interface de linha de comando (CLI)
 
 ---
